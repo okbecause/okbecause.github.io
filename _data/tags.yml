@@ -1,0 +1,55 @@
+- tag: airport
+  description: Airport
+  url: /trend/airport
+
+- tag: bridges
+  description: Bridges
+  url: /trend/bridges
+
+- tag: delay
+  description: Delay
+  url: /trend/delay
+
+- tag: driving
+  description: Driving
+  url: /trend/driving
+
+- tag: economy
+  description: Economy
+  url: /economy
+
+- tag: employment
+  description: Employment
+  url: /trend/employment
+
+- tag: environment
+  description: Environment
+  url: /environment
+
+- tag: ferries
+  description: Ferries
+  url: /trend/ferries
+
+- tag: centers
+  description: Growth Centers
+  url: /trend/centers
+
+- tag: affordability
+  description: Housing Affordability
+  url: /trend/affordability
+
+- tag: park-and-ride
+  description: Park and Ride
+  url: /trend/park-and-ride
+
+- tag: peopleandplace
+  description: People and Place
+  url: /peopleandplace
+
+- tag: transportation
+  description: Transportation
+  url: /transportation
+
+- tag: transit
+  description: Transit
+  url: /trend/transit

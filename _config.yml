@@ -1,0 +1,32 @@
+# For RSS
+name: Puget Sound Performance Trends
+description: Analysis and data for the Puget Sound region
+url: http://psrc.github.io/trends/updates/
+
+# Site settings
+# baseurl: BREAK-/trends
+#baseurl: /trends
+title: Puget Sound Performance Trends
+
+timezone: America/Los_Angeles
+
+include: ["peopleandplace", "economy", "transportation", "environment", "library"]
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: f0a033 #ffad33  #3366ff
+  secondary: fed136
+  secondary-dark: 4d4d4d
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/psrc/trends
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Seattle, WA
+
+# Build settings
+markdown: kramdown
+permalink: pretty
