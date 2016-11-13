@@ -1,32 +1,29 @@
-# For RSS
-name: Puget Sound Performance Trends
-description: Analysis and data for the Puget Sound region
-url: http://psrc.github.io/trends/updates/
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 
-# Site settings
-# baseurl: BREAK-/trends
-#baseurl: /trends
-title: Puget Sound Performance Trends
+url: http://okbecause.github.io
+title: Because LLC
+email: billyc@okbecause.com
+author: Billy Charlton
+description: Technology, Data, and Transportation Consulting
+copyright: 'Copyright &copy; 2016 Because LLC. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
-timezone: America/Los_Angeles
-
-include: ["peopleandplace", "economy", "transportation", "environment", "library"]
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: f0a033 #ffad33  #3366ff
-  secondary: fed136
-  secondary-dark: 4d4d4d
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: github
-    url: http://github.com/psrc/trends
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Seattle, WA
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/okbecause
+  - title: twitter
+    url: https://twitter.com/billyinseattle
