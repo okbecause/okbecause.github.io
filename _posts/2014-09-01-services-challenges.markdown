@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: quicky.png
 category: Services
 title: Pragmatic solutions
 description: |
