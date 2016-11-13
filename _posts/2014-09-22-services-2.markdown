@@ -1,8 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: Data management, data visualization
-description: |
----
-Big data, small data, everything in between data.
